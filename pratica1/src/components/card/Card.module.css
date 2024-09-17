@@ -1,0 +1,59 @@
+
+.fundo{
+    width: 400px;
+    background-color: rgb(232, 232, 232);
+    display: grid;
+}
+.textos{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.titulo{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+img{
+    margin-top: 5px;
+    width: 30px;
+    height: 35px;
+}
+.preco{
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.botao{
+    background-color: red;
+    color: aliceblue;
+    border: 0;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 170px;
+}
+.periodo{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.texto1{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+.texto2{
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+    color: rgb(183, 183, 183);
+}
+.texto3{
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+    color: rgb(183, 183, 183);
+}
